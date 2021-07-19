@@ -58,3 +58,13 @@ h2 {
     top:0;
     width:50%;
     }
+    @media screen and (min-width: 768px) {
+        body {
+            background: content-box radial-gradient(white, grey);
+        }
+    }
+    @media screen and (max-width: 768px) {
+        body {
+            background-color: lightgrey;
+        }
+    }
