@@ -59,7 +59,6 @@ h2 {
     top:0;
     width:50%;
     }
-<<<<<<< HEAD
     @media screen and (min-width: 768px) {
         body {
             background: content-box radial-gradient(white, grey);
@@ -70,5 +69,3 @@ h2 {
             background-color: lightgrey;
         }
     }
-=======
->>>>>>> CSS
